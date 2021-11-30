@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-30T10:48:15 IST" name="Default suite" finished-at="2021-11-30T10:48:18 IST" duration-ms="3167">
+    <groups>
+    </groups>
+    <test started-at="2021-11-30T10:48:15 IST" name="Default test" finished-at="2021-11-30T10:48:18 IST" duration-ms="3167">
+      <class name="restfullbooker.RequestSpecMultipleBooking">
+        <test-method is-config="true" signature="setupRequestSpec()[pri:0, instance:restfullbooker.RequestSpecMultipleBooking@e24ddd0]" started-at="2021-11-30T10:48:15 IST" name="setupRequestSpec" finished-at="2021-11-30T10:48:15 IST" duration-ms="66" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupRequestSpec -->
+        <test-method signature="createBooking1()[pri:0, instance:restfullbooker.RequestSpecMultipleBooking@e24ddd0]" started-at="2021-11-30T10:48:15 IST" name="createBooking1" finished-at="2021-11-30T10:48:18 IST" duration-ms="3076" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createBooking1 -->
+      </class> <!-- restfullbooker.RequestSpecMultipleBooking -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
